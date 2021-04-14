@@ -1,1 +1,2 @@
-# python_coursse
+# Python Zero to Hero 
+This repo will help to learn python ... 
